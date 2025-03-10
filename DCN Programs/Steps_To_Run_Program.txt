@@ -1,0 +1,18 @@
+Pendrive
+1. Open Pendrive
+2. Open file and copy the program 
+
+Linux	
+1. Open Virtual Box
+2. Start Kali Linux
+3. Open Terminal 
+4. Go to Any directory ( cd Document )
+5. Create a file ( touch  file_Name.c )
+6. Open that file ( vim file_Name.c )
+7. paste the program which you capy from pendrive ( Ctrl+Shift+V ) 
+8. press ( :wq ) to save and exit the file 
+9 Compile the file ( gcc file_Name.c -o file_Name ) ( example: gcc first.c -o first )
+10 Run the file ( ./file_Name )  ( example: ./first )
+
+Now your pogram is successfully run 
+Enter the input values to perform task. 
