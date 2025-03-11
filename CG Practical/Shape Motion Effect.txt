@@ -1,0 +1,14 @@
+Shape Motion Effect 
+1. Create New Document: File -> New 
+2. Put one Circle on frame in layer 1  
+3. Set source Position of object 
+4. Insert key frame (Press F6) on 30th Frame in layer 1 
+5. Set destination position of object 
+6. Select all frame (from 1 to 30) and right click  
+Select Create Tween Motion 
+7. Click on frame 1 and set the property Tween: Shape 
+8. Select object and press Ctrl + B Twice 
+9. Click on frame 30 and set the property Tween: Shape 
+10. Delete Circle and Place Rectangle 
+11. Select object and press Ctrl + B Twice 
+12. To Run, Press Ctrl + Enter

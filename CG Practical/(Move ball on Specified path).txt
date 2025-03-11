@@ -1,0 +1,10 @@
+(Move ball on Specified path) 
+1. Create New Document: File -> New 
+2. Create a Circle on Layer 1. 
+3. Click on Motion Guide from Insert Menu, new Guided Layer is created. 
+4. Select Pencil Tool, Make it Smooth 
+5. Select Guide Path Layer, Draw a Path on Stage  
+6. Press F6 at 60th frame in both layer 
+7. Select all frames from Layer 1 and right click and select Create Motion Tween. 
+8. Set Source and Destination position of a Circle on path 
+9. To Run, Press Ctrl + Enter 

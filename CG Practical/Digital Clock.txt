@@ -1,0 +1,32 @@
+Digital Clock 
+1. Create New Document: File -> New 
+2. Rename Layer 1 to Clock 
+3. Set stage size to 400 x 100 px and background color: Black 
+4. Put Text box using Text Tool on Clock layer 
+5. Create New Layer and rename as Actions 
+6. Right click of Actions layer at frame-1 and click Actions. 
+7. Write below code: 
+var time:Date = new Date(); 
+var h = time.getHours(); 
+var m = time.getMinutes(); 
+var s = time.getSeconds(); 
+var sess = "AM"; 
+if(h > 12) 
+{ 
+sess = "PM" 
+h -= 12; 
+} 
+if(h < 10) 
+{ 
+h = "0" + h; 
+} 
+if(m < 10) 
+{ 
+m = "0" + m; 
+} 
+if(s < 10) 
+{ 
+s = "0" + s; 
+} 
+time_txt.text = h + " : " + m + " : " + s + " " + sess; 
+8. Press F5 key on both the layers. 

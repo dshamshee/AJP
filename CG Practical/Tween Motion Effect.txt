@@ -1,0 +1,9 @@
+Tween Motion Effect 
+1. Create New Document: File -> New 
+2. Put one Circle on frame in layer 1  
+3. Set source Position of object 
+4. Insert key frame (Press F6) on 30th Frame in layer 1 
+5. Set destination position of object 
+6. Select all frame (from 1 to 30) and right click  
+Select Create Tween Motion 
+7. To Run, Press Ctrl + Enter 

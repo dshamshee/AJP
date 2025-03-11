@@ -1,0 +1,9 @@
+Move Circle around the stage. 
+1. Create New Document: File -> New 
+2. Put one Circle on frame in layer 1, at top-left corner 
+3. Press F6 at 20th frame in Layer 1, and move circle at top-right corner. 
+4. Press F6 at 40th frame in Layer 1, and move circle at bottom-right corner. 
+5. Press F6 at 60th frame in Layer 1, and move circle at bottom-left corner. 
+6. Press F6 at 80th frame in Layer 1, and move circle at top-left corner. 
+7. Select all frame (from 1 to 80) and right click, Select Create Motion Tween 
+8. To Run, Press Ctrl + Enter

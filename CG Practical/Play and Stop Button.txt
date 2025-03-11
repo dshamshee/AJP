@@ -1,0 +1,26 @@
+Play and Stop Button 
+9. Create New Document: File -> New 
+10. Take three layers: i.e. Layer 1, Layer 2 and Layer 3 
+11. Put one Circle on frame in Layer 1, and right click on that Circle and select Convert to 
+Symbol (Symbol 1). 
+12. Select Graphics and press OK. 
+13. Select Symbol 1 and Set color equal to Tint. 
+14. Put one Rectangle on Layer 2, and Select Text tool and write “Start” on that Rectangle. 
+15. Select Rectangle and Text on Layer 2, and right click to select Convert to Symbol 
+(Symbol 2). 
+16. Select Button and press OK. 
+17. Double click on Symbol 2, new window is open, in that select “Up” key frame in Layer. 
+18. Press F6 (3 times) for Over, Down, and Hit. 
+19. Right Click on Symbol 2, and Select Action. 
+20. Write below Code in Action Window 
+On (release) { 
+play( ); 
+} 
+21. Repeat Steps 6 to 12 for Stop Button, write stop( ); function instead of play(); in the 
+code. 
+22. Press F6 at 60th frame in all layers 
+23. Select all frames from layer 1 and right click on that and select Create Motion Tween. 
+24. Set Source and Destination position of a Circle. 
+25. Right Click on First keyframe of layer 1, and Select Actions, and write stop(); function 
+in Action window. 
+26. To Run, Press Ctrl + Enter 

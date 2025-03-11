@@ -1,0 +1,23 @@
+rotating electrons in the orbit of an atom
+1. Create New Document: File -> New 
+2. Create Layer 1, name it as Oval-1, and Draw one Oval.  
+3. Press Ctrl + k, and adjust Oval at Center of Stage. 
+4. Create Layer 2, name it as Atom-1, and Draw one Small Circle. 
+5. Click on Motion Guide from Insert Menu, new Guided Layer is created for Atom-1 
+Layer. 
+6. Copy Oval of Layer Oval-1, and paste it in Guided Layer of Atom-1. 
+7. Press F6 at 60th frame in all 3 Layers. 
+8. Select all frames (1 to 60) from Layer Atom-1 and right click and select Create Motion 
+Tween. 
+9. Select 1st keyframe in Atom-1 Layer and set source of circle. 
+10. Select 30th frame and press F6, and set destination of circle to right end of Oval. 
+11. Select 60th frame and set destination of circle to the starting point. 
+12. Create again 2 Layers and one guided Layer. 
+13. Select all Layers which first created from 1st to 60th frame, right click and select Copy 
+Frames. 
+14. Select all newly created Layers from 1st to 60th frame, right click and select Paste 
+Frames. 
+15. Adjust Oval and path of Circle like. 
+16. Repeat steps from 12 to 14. 
+17. Adjust Oval and path of Circle like. 
+18. To Run, Press Ctrl + Enter 

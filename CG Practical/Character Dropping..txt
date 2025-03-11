@@ -1,0 +1,16 @@
+Character Dropping. 
+1. Create New Document: File -> New 
+2. Create two Layers: Layer 1, Layer 2. 
+3. Write Your Name (i.e. ABC) using Text Tool on Layer 1, at top-center of stage. 
+4. Copy text of Layer 1, and paste it on Layer 2, and adjust it bottom-center of stage. 
+5. Select text of Layer 1, and press Ctrl + b. 
+6. Right Click on text of Layer 1, and select Distribute to Layers. (All character of text is 
+distributed in different layers). 
+7. Press F6 at 60th frame in all Layers. 
+8. Press F6 at 20th frame in Layer of 1st character (i.e. A), and move it bottom-center of 
+stage, right click in between of 1 to 20 frame and select Create Motion Tween. 
+9. Press F6 at 40th frame in Layer of 2nd character (i.e. B), and move it bottom-center of 
+stage, right click in between of 21 to 40 frame and select Create Motion Tween. 
+10. Press F6 at 60th frame in Layer of 3rd character (i.e. C), and move it bottom-center of 
+stage, right click in between of 41 to 60 frame and select Create Motion Tween.  
+11. To Run, Press Ctrl + Enter

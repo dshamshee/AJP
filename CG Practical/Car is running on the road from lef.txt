@@ -1,0 +1,18 @@
+Car is running on the road from left to right 
+1. Create New Document: File -> New 
+2. Create 4 Layers: Layer 1 (Car Body), Layer 2 (Front Wheel), Layer 3 (Rear Wheel), 
+Layer 4 (Road). 
+3. Create Car body on Layer 1, Right click on it and select Convert to Symbol. 
+4. Select Movie Clip and press OK. 
+5. Create Front Wheel on Layer 2, Right click on it and select Convert to Symbol. 
+6. Select Movie Clip and press OK. 
+7. Create Rear Wheel on Layer 3, Right click on it and select Convert to Symbol. 
+8. Select Movie Clip and press OK. 
+9. Create Road on Layer 4. 
+10. Press F6 at 60th frame in all 4 Layers. 
+11. Select all frames of Layers 1, 2 and 3 (from 1 to 60) and right click, and Select Create 
+Motion Tween. 
+12. Select Front Wheel in Layer 2, in properties set CW in Rotate. 
+13. Select Rear Wheel in Layer 3, in properties set CW in Rotate. 
+14. Set Source and destination position of objects in Layers 1, 2 and 3. 
+15. To Run, Press Ctrl + Enter 

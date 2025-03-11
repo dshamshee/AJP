@@ -1,0 +1,16 @@
+Mask Effect (Spot Light Effect) 
+1. Create New Document: File -> New 
+2. Take three layers: i.e. Layer 1, Layer 2 and Layer 3 
+3. Import one image on layer 1 
+4. Press Ctrl + k, and adjust the image. 
+5. Put one Circle on layer 2 
+6. Press F6 at 60th frame in all layers 
+7. Select all frame from layer 2 and right click on that and select Create Motion Tween 
+8. Set Source and Destination position of a Circle 
+9. Right Click on layer 2, and Select Mask 
+10. Import same image on Layer 3 which used in Layer 1. 
+11. Press Ctrl + k, and adjust the image. 
+12. Right click on image of Layer 3, and select convert to Symbol. 
+13. Select Graphics and press OK. 
+14. Set color equal to alpha, and set intensity (Alpha amount) to 40%. 
+15.  To Run, Press Ctrl + Enter 

@@ -1,0 +1,38 @@
+Solar System 
+1. Create New Document: File -> New 
+2. Change Stage Background color: Black 
+3. Insert Menu: Click on New Symbol with name Earth_Moon_Sym 
+4. Rename Layer 1 to Earth 
+5. Create a Circle on Earth layer with Blue color and no border 
+6. Conver the Circle (Earth) to symbol (Movie Clip) 
+7. Apply Filters: Glow: Blur-X and Blur-Y = 10, Color = Light Blue (#00CCFF), Quality = 
+High 
+8. Apply Filters: Blur: Blur-X and Blur-Y = 10, Quality = High 
+9. Create Circle around the Earth with stroke color: Red, Fill Color: None 
+10. Create New layer and give the name Moon 
+11. Create a Circle on Moon layer with Blue color and no border 
+12. Conver the Circle (Moon) to symbol (Movie Clip) 
+13. Apply Filters: Glow: Blur-X and Blur-Y = 5, Color = White, Quality = High 
+14. Apply Filters: Blur: Blur-X and Blur-Y = 5, Quality = High 
+15. Create a Guide layer 
+16. Create Circle around the Earth with stroke color: Red, Fill Color: None 
+17. Using eraser (small) remove (cut) single pixel from Circle (Guided Layer) 
+18. Press F6 and create key-frame at 36 Frame-no for all 
+19. Adjust the Moon on Starting of Guided Layer point at Frame: 1 
+20. Adjust the Moon on Ending of Guided Layer point at Frame: 36 
+21. Apply "Create Motion Tween" on Moon Layer 
+22. Now Select Scene 1 
+23. Change layer 1 name to Earth_Moon 
+24. Drag and drop the Earth_Moon_Sym on Earth_Moon Layer 
+25. Insert New Layer and give the name as Sun 
+26. Create a Circle with yellow color and no border 
+27. Conver the Circle (Sun) to symbol (Movie Clip) 
+28. Apply Filters: Glow: Blur-X and Blur-Y = 20, Color = Red, Quality = High 
+29. Apply Filters: Blur: Blur-X and Blur-Y = 20, Quality = High 
+30. Create a Guide layer 
+31. Create ellipse around the Sun with stroke color: Red, Fill Color: None 
+32. Using eraser (small) remove (cut) single pixel from ellipse (Guided Layer) 
+33. Press F6 and create key-frame at 120 Frame-no for all 
+34. Adjust the Earth_Moon_Sym on Starting of Guided Layer point at Frame: 1 
+35. Adjust the Earth_Moon_Sym on Ending of Guided Layer point at Frame: 120 
+36. Apply "Create Motion Tween" on Earth_Moon Layer 

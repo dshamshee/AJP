@@ -1,0 +1,23 @@
+Growing Moon 
+1. Create New Document: File -> New 
+2. Change background color of stage from white to black 
+3. Rename Layer-1 to Moon 
+4. Create Layer-2 and rename with “Animation” 
+5. Put one Circle on frame in Moon-layer, with fill with white color and border with white 
+color 
+6. Copy circle of Moon-layer, and paste on Animation-layer. 
+7. Select circle of Moon-layer, right-click and select convert to symbol option. 
+8. Select circle of Moon-layer. 
+9. Apply Filters: Glow: Blur-X and Blur-Y = 10, Color = White, Quality = High 
+10. Apply Filters: Blur: Blur-X and Blur-Y = 10, Quality = High 
+11. Select circle of Animation-layer. 
+12. Change fill color and border color from white to black. 
+13. Select circle of Animation-layer, right-click and select convert to symbol option. 
+14. Select circle of Animation-layer. 
+15. Apply Filters: Glow: Blur-X and Blur-Y = 10, Color = Black, Quality = High 
+16. Apply Filters: Blur: Blur-X and Blur-Y = 10, Quality = High 
+17. Select circle of Animation-layer and move that exactly on the circle of Moon-layer. 
+18. Press F6 at the frame no: 120 on both layers. 
+19. At 120th frame move your circle of Animation-layer just after the circle of Moon-layer. 
+20. Right-click on the timeline of Animation and apply “Create Motion Tween” 
+21. To Run, Press Ctrl + Enter 

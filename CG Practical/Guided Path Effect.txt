@@ -1,0 +1,10 @@
+Guided Path Effect 
+1. Create New Document: File -> New 
+2. Click On Motion Guide from Insert Menu 
+3. Select Pencil Tool, Make it Smooth 
+4. Select Guide Path Layer, Draw a Path on Stage  
+5. Select layer and put one object 
+6. Press f6 at 30th frame in both layer 
+7. Select all frame from layer and right-click and select Create Motion Tween. 
+8. Set Source and Destination position of an object on path 
+9. To Run, Press Ctrl + Enter 
