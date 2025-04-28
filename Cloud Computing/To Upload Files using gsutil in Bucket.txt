@@ -1,0 +1,8 @@
+To Upload Files using gsutil in Bucket
+1. Install gsutil (https://cloud.google.com/sdk/docs/install)
+2. Authenticate (gcloud auth login)
+	gcloud config set project YOUR_PROJECT_ID
+3. Upload File
+	gsutil cp SOURCE_FILE gs://BUCKET_NAME/DESTINATION_PATH
+4. Verify the Upload 
+	gsutil ls gs://my-bucket/
