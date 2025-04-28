@@ -1,55 +1,44 @@
-Program 14  Leaky Bucket :
+Program 15  Token Bucket :
 
 #include <stdio.h>
-#include <stdlib.h>
-#include <unistd.h> // For sleep function
+#include <stdbool.h>
+#include <unistd.h> // for usleep function
 
 int main() {
-    int i, packets[10], content = 0, newcontent, time, clk, bucket_size, output_rate;
+    int bucket_size, output_rate;
 
-    // Generate random packet sizes
-    for (i = 0; i < 5; i++) {
-        packets[i] = rand() % 10;
-        if (packets[i] == 0)
-            i--; // Regenerate if packet size is 0
-    }
-
-    printf("\nEnter output rate of the bucket: ");
+    // User input for bucket size and output rate
+    printf("Enter the bucket size: ");
+    scanf("%d", &bucket_size);
+    printf("Enter the output rate of the bucket: ");
     scanf("%d", &output_rate);
 
-    printf("\nEnter Bucket size: ");
-    scanf("%d", &bucket_size);
+    int bucket = 0;  // Current size of the bucket
 
-    for (i = 0; i < 5; ++i) {
-        if ((packets[i] + content) > bucket_size) {
-            if (packets[i] > bucket_size)
-                printf("\nIncoming packet size %d greater than the size of the bucket\n", packets[i]);
-            else
-                printf("\nBucket size exceeded\n");
+    while (true) {
+        // Generate some data, e.g., incoming packets
+        int incoming_packets;
+        printf("Enter the number of incoming packets: ");
+        scanf("%d", &incoming_packets);
+
+        // Add incoming packets to the bucket
+        if (bucket + incoming_packets <= bucket_size) {
+            bucket += incoming_packets;
         } else {
-            newcontent = packets[i];
-            content += newcontent;
-            printf("\nIncoming Packet: %d\n", newcontent);
-            printf("Transmission left: %d\n", content);
-            time = rand() % 10;
-            printf("Next packet will come at: %d\n", time);
-
-            for (clk = 0; clk < time && content > 0; ++clk) {
-                printf("\nLeft time: %d", (time - clk));
-                sleep(1);
-
-                if (content > 0) {
-                    printf("\nTransmitted\n");
-                    if (content < output_rate)
-                        content = 0;
-                    else
-                        content -= output_rate;
-                    printf("Bytes remaining: %d\n", content);
-                } else {
-                    printf("\nNo packets to send\n");
-                }
-            }
+            printf("Bucket overflow! Dropping %d packets.\n", incoming_packets + bucket - bucket_size);
+            bucket = bucket_size;  // Bucket is full
         }
+
+        // Transmit data from the bucket
+        if (bucket >= output_rate) {
+            printf("%d packets transmitted.\n", output_rate);
+            bucket -= output_rate;
+        } else {
+            printf("Bucket empty.\n");
+        }
+
+        // Wait for a second before the next iteration
+        usleep(1000000);  // Sleep for 1 second (1 million microseconds)
     }
 
     return 0;
