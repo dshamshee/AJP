@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danis\\Downloads\\SEM 3\\Practicals\\WAD\\Enable_Desable_Resize\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F376C8D-99A4-49C5-AD92-3EA0C1963AF5}|Enable_Desable_Resize\\Enable_Desable_Resize.csproj|c:\\users\\danis\\downloads\\sem 3\\practicals\\wad\\enable_desable_resize\\enable_desable_resize\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F376C8D-99A4-49C5-AD92-3EA0C1963AF5}|Enable_Desable_Resize\\Enable_Desable_Resize.csproj|solutionrelative:enable_desable_resize\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F376C8D-99A4-49C5-AD92-3EA0C1963AF5}|Enable_Desable_Resize\\Enable_Desable_Resize.csproj|c:\\users\\danis\\downloads\\sem 3\\practicals\\wad\\enable_desable_resize\\enable_desable_resize\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8F376C8D-99A4-49C5-AD92-3EA0C1963AF5}|Enable_Desable_Resize\\Enable_Desable_Resize.csproj|solutionrelative:enable_desable_resize\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\danis\\Downloads\\SEM 3\\Practicals\\WAD\\Enable_Desable_Resize\\Enable_Desable_Resize\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Enable_Desable_Resize\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\danis\\Downloads\\SEM 3\\Practicals\\WAD\\Enable_Desable_Resize\\Enable_Desable_Resize\\Default.aspx.cs*",
+              "RelativeToolTip": "Enable_Desable_Resize\\Default.aspx.cs*",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T18:01:58.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\danis\\Downloads\\SEM 3\\Practicals\\WAD\\Enable_Desable_Resize\\Enable_Desable_Resize\\Default.aspx",
+              "RelativeDocumentMoniker": "Enable_Desable_Resize\\Default.aspx",
+              "ToolTip": "C:\\Users\\danis\\Downloads\\SEM 3\\Practicals\\WAD\\Enable_Desable_Resize\\Enable_Desable_Resize\\Default.aspx*",
+              "RelativeToolTip": "Enable_Desable_Resize\\Default.aspx*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-11T18:01:28.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
