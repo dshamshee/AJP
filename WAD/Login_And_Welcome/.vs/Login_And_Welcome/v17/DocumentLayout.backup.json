@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danis\\Downloads\\SEM 3\\Practicals\\WAD\\Login_And_Welcome\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C025627E-65C1-4321-B2E5-76699399C766}|Login_And_Welcome\\Login_And_Welcome.csproj|c:\\users\\danis\\downloads\\sem 3\\practicals\\wad\\login_and_welcome\\login_and_welcome\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C025627E-65C1-4321-B2E5-76699399C766}|Login_And_Welcome\\Login_And_Welcome.csproj|solutionrelative:login_and_welcome\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C025627E-65C1-4321-B2E5-76699399C766}|Login_And_Welcome\\Login_And_Welcome.csproj|c:\\users\\danis\\downloads\\sem 3\\practicals\\wad\\login_and_welcome\\login_and_welcome\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C025627E-65C1-4321-B2E5-76699399C766}|Login_And_Welcome\\Login_And_Welcome.csproj|solutionrelative:login_and_welcome\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C025627E-65C1-4321-B2E5-76699399C766}|Login_And_Welcome\\Login_And_Welcome.csproj|c:\\users\\danis\\downloads\\sem 3\\practicals\\wad\\login_and_welcome\\login_and_welcome\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{C025627E-65C1-4321-B2E5-76699399C766}|Login_And_Welcome\\Login_And_Welcome.csproj|solutionrelative:login_and_welcome\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C025627E-65C1-4321-B2E5-76699399C766}|Login_And_Welcome\\Login_And_Welcome.csproj|c:\\users\\danis\\downloads\\sem 3\\practicals\\wad\\login_and_welcome\\login_and_welcome\\welcome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C025627E-65C1-4321-B2E5-76699399C766}|Login_And_Welcome\\Login_And_Welcome.csproj|solutionrelative:login_and_welcome\\welcome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Welcome.aspx",
+              "DocumentMoniker": "C:\\Users\\danis\\Downloads\\SEM 3\\Practicals\\WAD\\Login_And_Welcome\\Login_And_Welcome\\Welcome.aspx",
+              "RelativeDocumentMoniker": "Login_And_Welcome\\Welcome.aspx",
+              "ToolTip": "C:\\Users\\danis\\Downloads\\SEM 3\\Practicals\\WAD\\Login_And_Welcome\\Login_And_Welcome\\Welcome.aspx",
+              "RelativeToolTip": "Login_And_Welcome\\Welcome.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-11T19:28:34.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\danis\\Downloads\\SEM 3\\Practicals\\WAD\\Login_And_Welcome\\Login_And_Welcome\\Site.Master",
+              "RelativeDocumentMoniker": "Login_And_Welcome\\Site.Master",
+              "ToolTip": "C:\\Users\\danis\\Downloads\\SEM 3\\Practicals\\WAD\\Login_And_Welcome\\Login_And_Welcome\\Site.Master",
+              "RelativeToolTip": "Login_And_Welcome\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-11T19:27:47.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\danis\\Downloads\\SEM 3\\Practicals\\WAD\\Login_And_Welcome\\Login_And_Welcome\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Login_And_Welcome\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\danis\\Downloads\\SEM 3\\Practicals\\WAD\\Login_And_Welcome\\Login_And_Welcome\\Login.aspx.cs",
+              "RelativeToolTip": "Login_And_Welcome\\Login.aspx.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T19:25:40.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\danis\\Downloads\\SEM 3\\Practicals\\WAD\\Login_And_Welcome\\Login_And_Welcome\\Login.aspx",
+              "RelativeDocumentMoniker": "Login_And_Welcome\\Login.aspx",
+              "ToolTip": "C:\\Users\\danis\\Downloads\\SEM 3\\Practicals\\WAD\\Login_And_Welcome\\Login_And_Welcome\\Login.aspx",
+              "RelativeToolTip": "Login_And_Welcome\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-11T19:24:37.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
